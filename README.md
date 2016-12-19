@@ -38,7 +38,8 @@ De esta forma podrías insertar una imagen
 ![nombre de la imagen][img1]
 
 O dos, sin ensuciar tu espacio de escritura.
+  
 ![nombre de la imagen2][img2] 
 
-[img1]: ../images/invie.png "Título alternativo"
-[img2]: http://www.google.com.au/images/nav_logo7.png "Título alternativo"
+[img1]: images/invie.png "Título alternativo" 
+[img2]: http://www.google.com.au/images/nav_logo2.png "Título alternativo"
